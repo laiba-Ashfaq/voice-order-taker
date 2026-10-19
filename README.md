@@ -4,7 +4,9 @@ Turn WhatsApp voice notes in Urdu, Roman Urdu, Pashto or English into a clean or
 
 Built for the Hacktoberfest Open-Source AI Challenge (Week 2: Side Hustle).
 
-![Screenshot](screenshot.png)
+<img width="1279" height="539" alt="image" src="https://github.com/user-attachments/assets/7a808f8f-cfbc-42ae-a47b-3b40abae2660" />
+
+
 
 ## The problem
 
