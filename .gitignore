@@ -1,0 +1,13 @@
+cd D:\order-taker
+@"
+venv/
+__pycache__/
+*.pyc
+.env
+*.m4a
+*.ogg
+*.opus
+*.mp3
+*.wav
+orders.csv
+"@ | Out-File -Encoding utf8 .gitignore
